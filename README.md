@@ -22,4 +22,4 @@ You can also find me on:
 - [instagram](https://instagram.com/xiwire_)
 
 #### How do I pronounce that?
-It's a malformed version of "chigüire" in Spanish, so technically it would be close to `/ʧigwirɛ/`. But I mean, just pronounce however you want.
+It's a malformed version of "chigüire" in Spanish, so technically it would be close to `/ʧigwire̞/`. But I mean, just pronounce however you want.
