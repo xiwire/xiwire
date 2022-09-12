@@ -1,16 +1,16 @@
-### Hi there 👋
+# XIWIRE
 
-<!--
-**xiwire/xiwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💬 Pronouns: they/them
 
-Here are some ideas to get you started:
+Hi! I'm a musician, software developer and tinkerer/hacker. I'm particularly interested in audio programming, livecoding, 3D modelling, procedural generation and creative applications of code in general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I keep an organized list of repos I think are cool and/or useful in my [stars page](https://github.com/xiwire?tab=stars).
+
+I have an awful website over at [xiwi.re](https://xiwi.re) which is prone to change very often.
+
+You can also find me on:
+- [soundcloud](https://soundcloud.com/xiwire)
+- [bandcamp](https://xiwire.bandcamp.com) ([fan account](https://bandcamp.com/xiwire))
+- [itch.io](https://xiwire.itch.io/)
+- [twitter](https://twitter.com/xiwire_)
+- [instagram](https://instagram.com/xiwire_)
