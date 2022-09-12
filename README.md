@@ -4,6 +4,8 @@
 
 Hi! I'm a musician, software developer and tinkerer/hacker. I'm particularly interested in audio programming, livecoding, 3D modelling, procedural generation and creative applications of code in general.
 
+I mainly program in Python, which I've been using for a looooong time. I'm also decent at using C, have worked with Go and Javascript and I'm currently learning Rust.
+
 I keep an organized list of repos I think are cool and/or useful in my [stars page](https://github.com/xiwire?tab=stars).
 
 I have an awful website over at [xiwi.re](https://xiwi.re) which is prone to change very often.
